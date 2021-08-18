@@ -25,7 +25,7 @@ class DisplayDetailsScreen extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              CircleAvatar(backgroundImage :  AssetImage('images/hnglogo.jpeg',),
+              CircleAvatar(backgroundImage :  AssetImage('images/hng-logo.jpeg',),
                 radius: 70,),
               const SizedBox(height: 40.0),
               Text(
