@@ -29,14 +29,14 @@ class DisplayDetailsScreen extends StatelessWidget {
                 radius: 70,),
               const SizedBox(height: 40.0),
               Text(
-                'Welcome $fullName, below are your details',
+                'Welcome $fullName, below are your details'.toUpperCase(),
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   color: Colors.black,
                   fontSize: 20.0,
                 ),
               ),
-              const SizedBox(height: 30.0),
+              SizedBox(height: 30),
               Text(
                 'FullName: $fullName',
                 style: TextStyle(

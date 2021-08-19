@@ -47,7 +47,7 @@ class HomePage extends StatelessWidget {
                           width: 2.0,
                           color: Color(0xFF05B0FF),
                         ),
-                        borderRadius: BorderRadius.circular(2.0),
+                        borderRadius: BorderRadius.circular(15.0),
                       ),
                       enabledBorder: OutlineInputBorder(
                         borderSide: BorderSide(
@@ -81,7 +81,7 @@ class HomePage extends StatelessWidget {
                           width: 2.0,
                           color: Color(0xFF05B0FF),
                         ),
-                        borderRadius: BorderRadius.circular(2.0),
+                        borderRadius: BorderRadius.circular(15.0),
                       ),
                       enabledBorder: OutlineInputBorder(
                         borderSide: BorderSide(
@@ -115,7 +115,7 @@ class HomePage extends StatelessWidget {
                           width: 2.0,
                           color: Color(0xFF05B0FF),
                         ),
-                        borderRadius: BorderRadius.circular(2.0),
+                        borderRadius: BorderRadius.circular(15.0),
                       ),
                       enabledBorder: OutlineInputBorder(
                         borderSide: BorderSide(
@@ -149,7 +149,7 @@ class HomePage extends StatelessWidget {
                           width: 2.0,
                           color: Color(0xFF05B0FF),
                         ),
-                        borderRadius: BorderRadius.circular(2.0),
+                        borderRadius: BorderRadius.circular(15.0),
                       ),
                       enabledBorder: OutlineInputBorder(
                         borderSide: BorderSide(
