@@ -2,7 +2,7 @@
     package="kenziematch.com.input_form_user">
    <application
         android:label="input_form_user"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/form_app">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

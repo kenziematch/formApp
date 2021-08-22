@@ -1,20 +1,19 @@
-![form-video](https://user-images.githubusercontent.com/81062900/130040722-a7d7c9eb-1705-4b65-a1a2-bbd26dd1e812.gif)
+
 # input_form_user
+
+A simple flutter app that collects user input and displays it on the screen
+
+
+![129768444-cc8f7570-be91-4634-8889-649b8646941c](https://user-images.githubusercontent.com/81052783/130188155-d320f2db-1aae-490f-8d69-b5a18c408313.png)
+
+More about HNG internship at https://zuri.team, https://internship.zuri.team or https://training.zuri.team.
+
+
+
+
+![form-video](https://user-images.githubusercontent.com/81062900/130040722-a7d7c9eb-1705-4b65-a1a2-bbd26dd1e812.gif)
+
 
 Link to the app.
 https://appetize.io/app/f9xk4zb6u2e69t5650h6qytf1w
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
